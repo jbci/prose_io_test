@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+date: '2020-03-14 14:48:17 -0300'
+categories: jekyll update
 ---
 ## A New Post
 
